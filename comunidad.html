@@ -1,0 +1,33 @@
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Formulario de Contacto</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link rel="stylesheet" href="css/comunidad.css">
+    <script src="js/comunidad.js"></script>
+</head>
+
+<body>
+    <div align="center" class="imagen"><img src="img/logo.png"></div>
+    <section id="contact">
+        <div class="content">
+            <div id="form">
+                <form action="" id="contactForm" method="post">
+                    <span>Nombre</span>
+                    <input type="text" name="name" class="name" placeholder="Introduce tu Nombre" tabindex=1 />
+                    <span>Correo</span>
+                    <input type="text" name="email" class="email" placeholder="Introduce tu Correo" tabindex=2 />
+                    <span id="captcha"></span>
+                    <input type="text" name="captcha" class="captcha" maxlength="4" size="4"
+                        placeholder="Introducir codigo del juego" tabindex=3 />
+                    <span>Mensage</span>
+                    <textarea class="message" placeholder="Escribenos tu mensaje" tabindex=4></textarea>
+                    <input type="submit" name="submit" value="Enviar" class="submit" tabindex=5>
+                </form>
+            </div>
+    </section>
+</body>
+
+</html>
