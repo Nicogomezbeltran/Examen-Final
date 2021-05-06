@@ -8,7 +8,7 @@ Cristian Santolaria junto a Gabriel Neves se han encargado de la historia del ju
 ![Sobre nosotros](https://user-images.githubusercontent.com/73166385/117255561-12bb2680-ae4a-11eb-93f2-1a6760c60993.PNG)
 
 
-Yo Nicolás Gómez me he encargado de la selección de los colores de la web. 
+Yo Nicolás Gómez me he encargado de la selección de los colores de la web, usando colores oscuros similando el fondo del oceano.
 
 
 ![Paletas de colores](https://user-images.githubusercontent.com/73166385/117256454-01bee500-ae4b-11eb-81ee-5823b932bf41.png)
